@@ -4,7 +4,7 @@
 import React from 'react';
 import { render } from 'react-dom';
 import 'typeface-roboto';
-import Demo from './demo';
+import Demo from './dynamic';
 
 const rootElement = document.querySelector('#root');
 if (rootElement) {
